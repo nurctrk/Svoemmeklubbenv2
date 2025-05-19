@@ -4,10 +4,10 @@
 - Studiegruppe 1
 
 Navne:
-- Nur
-- Zakaria
-- Amin
-- Gurkamal
-- M. Younas
-- Christoffer
+- Nur (meci0001, meci0001@stud.kea.dk)
+- Zakaria El Rrami
+- Mohammed Amin Ayan
+- Gurkamal Singh
+- Mohammad Younas Akram
+- Christoffer Kjellow-Andersen
 
